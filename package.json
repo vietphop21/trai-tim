@@ -1,0 +1,18 @@
+{
+  "name": "trai-tim",
+  "version": "1.0.0",
+  "description": "fd",
+  "main": "ds",
+  "scripts": {
+    "test": "ds"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ds"
+  },
+  "keywords": [
+    "ds"
+  ],
+  "author": "ds",
+  "license": "ISC"
+}
